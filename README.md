@@ -4,7 +4,7 @@ With this profile, I’m taking my first steps into the fascinating world of net
 
 ## 🔒 My TryHackMe Profile
 
-Cybersecurity has become one of my biggest passions, and I’m actively building my skills to tackle real-world challenges. Check out my [TryHackMe profile](https://tryhackme.com/p/<hackedbybackdoor>) to see my progress as I explore penetration testing, network security, and more!
+Cybersecurity has become one of my biggest passions, and I’m actively building my skills to tackle real-world challenges. Check out my [TryHackMe profile](https://tryhackme.com/r/p/hackedbybackdoor) to see my progress as I explore penetration testing, network security, and more!
 
 ## 🤖 Why AI and Cybersecurity?
 
