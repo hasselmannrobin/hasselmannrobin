@@ -5,7 +5,7 @@ I’m currently in the early stages of my journey into the world of networks, ar
 
 🔒 My TryHackMe Profile
 
-Although I’m still learning, I’m passionate about cybersecurity and am working hard to develop my skills. You can follow my progress on my TryHackMe profile (https://tryhackme.com/r/p/hackedbybackdoor) , where I’m tackling various challenges related to penetration testing, network security, and more.learning one step at a time.
+Although I’m still learning, I’m passionate about cybersecurity and am working hard to develop my skills. You can follow my progress on my TryHackMe profile (https://tryhackme.com/r/p/hackedbybackdoor) , where I’m tackling various challenges related to penetration testing, network security, and more. Learning one step at a time.
 
 
 🤖 Why AI and Cybersecurity?
